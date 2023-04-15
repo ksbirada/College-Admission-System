@@ -1,3 +1,4 @@
+								College Admission System
 
 The “College admission database management system’s” objective is to provide a system which manages the student and faculties details,the  activity done in a college depends upon the students enrollment and the courses handled by the faculties and the maintenance of this records is very difficult because of it’s hugeness .The users will consume less amount of time through computerized system rather than working manual.The system will take care of all the college activities like managing each student’s records and faculties records like which instructor belong to which section and about their qualification details etc.
 	Data storing is easier .Paper work will be reduced and college staffs spend more time on monitoring the progress.The system is user friendly and easy to use.All the important data’s will be stored in the database and it avoids the miscalculation.
